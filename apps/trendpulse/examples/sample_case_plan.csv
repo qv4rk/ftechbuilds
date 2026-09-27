@@ -1,0 +1,2 @@
+case_id,case_label,terms_exact_json,geo_code,category_id,explore_url
+sample,Market research,"[""\""coffee market\""""]",US,0,https://trends.google.com/trends/explore?date=2025-01-01%202025-12-31&geo=US&gprop=&cat=0&q=%22coffee%20market%22
